@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "fullName": "test user",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullName": "test Data",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "id": "cf42",
+      "fullName": "ss",
+      "email": "walaazahranthedeveloper@gmail.com",
+      "password": "ss"
+    },
+    {
+      "id": "2279",
+      "fullName": "ss",
+      "email": "walaazahranthedeveloper@gmail.com",
+      "password": "ss"
+    },
+    {
+      "id": "05e1",
+      "fullName": "ss",
+      "email": "walaazahranthedeveloper@gmail.com",
+      "password": "dd"
+    }
+  ]
+}
