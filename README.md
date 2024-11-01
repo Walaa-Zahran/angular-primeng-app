@@ -2,7 +2,6 @@
 
 🚀 Building Dynamic UI with Angular, PrimeNG, and JSON Server 🚀
 
-I'm excited to share a recent project where I worked with Angular, leveraging PrimeNG for sleek and dynamic UI components, and created custom validators for enhanced form control and user experience.
 
 Here’s a quick breakdown of what went into this project:
 
