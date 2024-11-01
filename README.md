@@ -1,27 +1,20 @@
 # AngularPrimengApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+🚀 Building Dynamic UI with Angular, PrimeNG, and JSON Server 🚀
 
-## Development server
+I'm excited to share a recent project where I worked with Angular, leveraging PrimeNG for sleek and dynamic UI components, and created custom validators for enhanced form control and user experience.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Here’s a quick breakdown of what went into this project:
 
-## Code scaffolding
+💡 Angular Framework: Built the app's core with Angular, ensuring modularity, scalability, and performance.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+🎨 PrimeNG: Used PrimeNG for its ready-to-use and customizable components, making the UI visually appealing and responsive without reinventing the wheel.
 
-## Build
+🔐 Custom Validators: Designed custom form validators to add specific, user-friendly checks and balances within forms, ensuring a smooth and reliable interaction.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+🌐 JSON Server: Set up a JSON Server as a mock backend, streamlining the development process by providing a lightweight and quick REST API setup. This allowed me to focus on the UI without needing a full backend setup.
 
-## Running unit tests
+This project gave me valuable insights into enhancing user experience and creating efficient, testable front-end code. 🚀 If you’re working on Angular projects and need tips on validators or quick backend setups, feel free to reach out!
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+#Angular #PrimeNG #FrontendDevelopment #CustomValidators #JSONServer #UIDevelopment
+!()[https://github.com/Walaa-Zahran/angular-primeng-app/blob/master/screen-recorder-fri-nov-01-2024-20-39-07.gif]
